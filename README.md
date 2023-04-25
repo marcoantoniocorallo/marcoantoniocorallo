@@ -1,4 +1,4 @@
-## Hello there! I'm Marco Antonio <img src="https://user-images.githubusercontent.com/47791928/234292829-ca45ee2c-fcf1-4d0b-992b-3185deaa0bb9.gif"  width="32" height="32">
+### Hello there! I'm Marco Antonio <img src="https://user-images.githubusercontent.com/47791928/234292829-ca45ee2c-fcf1-4d0b-992b-3185deaa0bb9.gif"  width="25" height="25">
 
 ---
 
@@ -9,9 +9,7 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoantoniocorallo&layout=compact&theme=transparent) 
-
-By [@anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+[ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoantoniocorallo&layout=compact&theme=transparent) ](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **marcoantoniocorallo/marcoantoniocorallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
