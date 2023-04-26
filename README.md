@@ -2,10 +2,13 @@
 
 ---
 
-- :man_technologist: I'm a computer scientist with a strong curiosity about the world, the universe and everything that happens inside it. :sparkles:
-- :mortar_board:  I'm a MSc student @ [UniPi](https://di.unipi.it/en/), where I'm attending both *theoretical CS* and *cybersecurity-oriented* courses, in order to become an expert of systems security and verification;
-- 🔭 I’m currently working on Languages and Compilers, Reflection, Monads and Quantum Computing;
-- 🌱 I’m currently learning techniques for reasoning on models of computation, the development of smart contracts and the evaluation and management of ICT risks;
+:man_technologist: I'm a computer scientist with a strong curiosity about the world, the universe and everything that happens inside it. :sparkles:
+
+:mortar_board:  I'm a MSc student @ [UniPi](https://di.unipi.it/en/), where I'm attending both *theoretical CS* and *cybersecurity-oriented* courses, in order to become an expert of systems security and verification;
+
+🔭 I’m currently working on Languages and Compilers, Reflection, Monads and Quantum Computing;
+
+🌱 I’m currently learning techniques for reasoning on models of computation, the development of smart contracts and the evaluation and management of ICT risks;
 
 ---
 
