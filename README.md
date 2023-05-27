@@ -10,6 +10,7 @@
   - an [esoteric](https://en.wikipedia.org/wiki/Esoteric_programming_language) front-end for [Fhree](https://github.com/marcoantoniocorallo/Fhree);
   - a simple java class that serializes objects exploiting reflection;
   - a simpler version of [15-puzzle](https://en.wikipedia.org/wiki/15_puzzle): 8-puzzle;
+  - a concurrent solver for the [k-coloring](https://en.wikipedia.org/wiki/Graph_coloring#Exact_algorithms) problem;
 
 🌱 I’m currently learning techniques for reasoning on models of computation, the development of smart contracts and the evaluation and management of ICT risks;
 
