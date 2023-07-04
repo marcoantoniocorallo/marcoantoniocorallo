@@ -6,13 +6,17 @@
 
 :mortar_board:  I'm a MSc student @ [UniPi](https://di.unipi.it/en/), where I'm attending both *theoretical CS* and *cybersecurity-oriented* courses, in order to become an expert of systems security and verification;
 
-🔭 I’m currently working on
+👨‍💻 I’m currently working on
   - an [esoteric](https://en.wikipedia.org/wiki/Esoteric_programming_language) front-end for [Fhree](https://github.com/marcoantoniocorallo/Fhree);
   - a simple java class that serializes objects exploiting reflection;
   - a simpler version of [15-puzzle](https://en.wikipedia.org/wiki/15_puzzle): 8-puzzle;
-  - a concurrent solver for the [k-coloring](https://en.wikipedia.org/wiki/Graph_coloring#Exact_algorithms) problem;
+  - an Haskell type constructor for [MultiSets](https://en.wikipedia.org/wiki/Multiset);
 
 🌱 I’m currently learning techniques for reasoning on models of computation, the development of smart contracts and the evaluation and management of ICT risks;
+
+🚀 My latest (public) projects:
+- [Fhree](https://github.com/marcoantoniocorallo/Fhree): a small strongly typed functional language;
+- [CKC](https://github.com/marcoantoniocorallo/concurrent-KColoring): a concurrent [k-coloring](https://en.wikipedia.org/wiki/Graph_coloring#Exact_algorithms) solver, developed with [Fred-ef](https://github.com/Fred-ef).
 
 ---
 
