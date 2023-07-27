@@ -8,14 +8,13 @@
 
 👨‍💻 I’m currently working on
   - an [esoteric](https://en.wikipedia.org/wiki/Esoteric_programming_language) front-end for [Fhree](https://github.com/marcoantoniocorallo/Fhree);
-  - a simple java class that serializes objects exploiting reflection;
-  - a simpler version of [15-puzzle](https://en.wikipedia.org/wiki/15_puzzle): 8-puzzle;
-  - an Haskell type constructor for [MultiSets](https://en.wikipedia.org/wiki/Multiset);
 
 🌱 I’m currently learning techniques for reasoning on models of computation, the development of smart contracts and the evaluation and management of ICT risks;
 
 🚀 My latest (public) projects:
 - [Fhree](https://github.com/marcoantoniocorallo/Fhree): a small strongly typed functional language;
+- [JobScheduler](https://github.com/marcoantoniocorallo/JobScheduler-Framework): a simple framework that implements *Inversion of Control* providing the functionalities of a job scheduler;
+- [8Puzzle](https://github.com/marcoantoniocorallo/Eight-Puzzle): a simple game built using jbeans and events;
 - [CKC](https://github.com/marcoantoniocorallo/concurrent-KColoring): a concurrent [k-coloring](https://en.wikipedia.org/wiki/Graph_coloring#Exact_algorithms) solver, developed with [Fred-ef](https://github.com/Fred-ef).
 
 ---
