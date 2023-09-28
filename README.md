@@ -1,4 +1,7 @@
-### Hello there! I'm Marco Antonio <img src="https://user-images.githubusercontent.com/47791928/234292829-ca45ee2c-fcf1-4d0b-992b-3185deaa0bb9.gif"  width="25" height="25">
+<div>
+    <img width="25" align="left" src='https://user-images.githubusercontent.com/47791928/234292829-ca45ee2c-fcf1-4d0b-992b-3185deaa0bb9.gif' />
+    <h2>  Hello there!&nbsp; I'm Marco Antonio </h2>
+</div>
 
 ---
 
