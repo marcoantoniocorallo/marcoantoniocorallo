@@ -7,16 +7,16 @@
 
 :man_technologist: I'm a computer scientist with a strong curiosity about the world, the universe and everything that happens inside it. :sparkles:
 
-:mortar_board:  I'm a MSc student @ [UniPi](https://di.unipi.it/en/), where I'm attending both *theoretical CS* and *cybersecurity-oriented* courses, in order to become an expert of systems security and verification;
+:mortar_board:  I'm a MSc student @ [UniPi](https://di.unipi.it/en/), where I'm studying security and verification, by means of both *theoretical CS* and *cybersecurity* courses.
 
-<!-- 👨‍💻 I’m currently working on -->
+🌱 I'm currently learning how to develop smart contracts while improving my skills as a CTF player.
 
-🌱 I’m currently learning techniques for reasoning on models of computation, the development of smart contracts and the evaluation and management of ICT risks;
+:hammer:    In my free time, I'm currently working on a simple framework for _model checking_ in Rust
 
-🚀 My latest (public) projects:
+🚀 My latest (public) projects are mainly programming language related:
 - [MicroC](https://github.com/marcoantoniocorallo/MicroC): an LLVM-based compiler for a sublanguage of C;
-- [EsoCaml](https://github.com/marcoantoniocorallo/EsoCaml): an [esoteric](https://en.wikipedia.org/wiki/Esoteric_programming_language) front-end for [Fhree](https://github.com/marcoantoniocorallo/Fhree);
-- [JobScheduler](https://github.com/marcoantoniocorallo/JobScheduler-Framework): a simple framework that implements *Inversion of Control* providing the functionalities of a job scheduler;
+- [EsoCaml](https://github.com/marcoantoniocorallo/EsoCaml): an [esoteric](https://en.wikipedia.org/wiki/Esoteric_programming_language) front-end for a simple functional language;
+- [Trustee](https://github.com/marcoantoniocorallo/Trustee): an extension for [Fhree](https://github.com/marcoantoniocorallo/Fhree) for supporting security primitives, _taint analysis_ and information flow to prevent data leaks;
 
 ---
 
