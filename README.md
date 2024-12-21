@@ -9,13 +9,11 @@
 
 :mortar_board:  I'm a MSc student @ [UniPi](https://di.unipi.it/en/), where I'm studying security and verification, by means of both *theoretical CS* and *cybersecurity* courses.
 
-🌱 I'm currently learning how to develop smart contracts while improving my skills as a CTF player.
+:hammer: In my free time, I'm currently working on a simple framework for _model checking_ written in Rust.
 
-:hammer:    In my free time, I'm currently working on a simple framework for _model checking_ in Rust
-
-🚀 My latest (public) projects are mainly programming language related:
+🚀 My latest (public) projects:
 - [MicroC](https://github.com/marcoantoniocorallo/MicroC): an LLVM-based compiler for a sublanguage of C;
-- [EsoCaml](https://github.com/marcoantoniocorallo/EsoCaml): an [esoteric](https://en.wikipedia.org/wiki/Esoteric_programming_language) front-end for a simple functional language;
+- [Mastermind on Blockchain](https://github.com/marcoantoniocorallo/Mastermind-on-Blockchain): an implementation of the Mastermind board game on the Ethereum Blockchain;
 - [Trustee](https://github.com/marcoantoniocorallo/Trustee): an extension for [Fhree](https://github.com/marcoantoniocorallo/Fhree) for supporting security primitives, _taint analysis_ and information flow to prevent data leaks;
 
 ---
@@ -27,7 +25,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
