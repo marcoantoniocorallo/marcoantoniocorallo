@@ -13,7 +13,7 @@
 
 🚀 My latest (public) projects:
 - [MicroC](https://github.com/marcoantoniocorallo/MicroC): an LLVM-based compiler for a sublanguage of C;
-- [Mastermind on Blockchain](https://github.com/marcoantoniocorallo/Mastermind-on-Blockchain): an implementation of the Mastermind board game on the Ethereum Blockchain;
+- [MIND](https://github.com/marcoantoniocorallo/MIND): an implementation of the Mastermind board game on the Ethereum Blockchain;
 - [Trustee](https://github.com/marcoantoniocorallo/Trustee): an extension for [Fhree](https://github.com/marcoantoniocorallo/Fhree) for supporting security primitives, _taint analysis_ and information flow to prevent data leaks;
 
 ---
