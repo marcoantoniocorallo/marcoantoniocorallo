@@ -19,7 +19,7 @@
 
 🚀 My ~latest~ proudest public projects:
 - [MicroC](https://github.com/marcoantoniocorallo/MicroC): An LLVM-based compiler for a sublanguage of C.
-- [MIND](https://github.com/marcoantoniocorallo/MIND): An implementation of the Mastermind board game on the Ethereum Blockchain.
+- [VSA](https://github.com/marcoantoniocorallo/VSA): A simple F# framework for Value-Set Analysis
 - [Trustee](https://github.com/marcoantoniocorallo/Trustee): An extension for [Fhree](https://github.com/marcoantoniocorallo/Fhree) that supports security primitives, *taint analysis*, and information flow control to prevent data leaks.
 
 - **Bonus:** [SerenHub](https://github.com/marcoantoniocorallo/SerenHub) is a **secure** website for novelists. Try to hack it and let me know how you would improve its defenses!
