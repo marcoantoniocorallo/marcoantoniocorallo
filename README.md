@@ -7,15 +7,13 @@
 
 :man_technologist: I am a Cybersecurity PhD student at the [_Machine Perception and Interaction Lab_](https://www.oru.se/english/research/groups/nt/machine-perception-and-interaction-lab/) at Örebro University.
 
+:mortar_board: I earned both my BSc and MSc degrees at [UniPi](https://di.unipi.it/en/), where I primarily focused on cybersecurity and formal verification.
+
 🕵️ Currently, I am investigating security and privacy issues within:
 - 🤖 Machine Learning and Neuro-Symbolic models;
 - 🧠 Brain-Computer Interface (BCI) devices and applications.
 
 👯 Are you working in these fields? I'd love to connect—drop me a message!
-
-:mortar_board: I earned both my BSc and MSc degrees at [UniPi](https://di.unipi.it/en/), where I primarily focused on cybersecurity and formal verification.
-
-🧩 In my free time, I enjoy solving Capture-The-Flag (CTF) challenges to pick up highly specific (and occasionally niche) technical skills.
 
 🚀 My ~latest~ proudest public projects:
 - [MicroC](https://github.com/marcoantoniocorallo/MicroC): An LLVM-based compiler for a sublanguage of C.
